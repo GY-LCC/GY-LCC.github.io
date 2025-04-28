@@ -1,0 +1,11 @@
+; 初始场景，以及特效演示
+bgm:糖梅仙子舞曲.mp3 -volume=30 -unlockname=In the Hall of the Mountain King;
+intro:This game supposed to be the final outcome|of the Unit 4: Personal Progression Project|But I haven't finished most of it yet|So PLEASE don't expect too much from it -fontSize=medium -backgroundColor=rgba(178, 215, 255, 1) -fontColor=rgba(0, 0, 0, 1) -animation=fadeIn -delayTime=2000;
+changeFigure:250 Stand .png -left -next;
+setAnimation:enter-from-left -target=fig-left -next;
+changeBg:临时用.jpg -next;
+:Before the game begins, considering that the player of this outcome may not usually play games,|or may not often play the Visual Novel games. -fontSize=default;
+:I will explain the basics of how to play Visual Novel games first. -fontSize=default;
+:In the complete version of this game you can choose to skip the tutorial. -fontSize=default;
+:But I have only done the tutorial part, so you can only choose to do the tutorial now.|Sorry about that. (。ω。；) -notend -fontSize=default;
+choose:Start the tutorial:Tutorial.txt|[enableCondition]->Skip the tutorial:选择场景文件;

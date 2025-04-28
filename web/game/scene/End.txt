@@ -1,0 +1,7 @@
+changeBg:临时用.jpg -next;
+changeFigure:250 Stand .png -left;
+:Anyway, that's all for now. -fontSize=default;
+changeFigure:none -next;
+:I know this is too simple for the final outcome. -fontSize=default;
+:I will focus on adding stories and plots and more illustrations. -fontSize=default;
+end;

@@ -1,0 +1,4 @@
+{name}:Why your head so weird? -fontSize=default;
+:That's rude. But I can show you something if you really want to know what my head is. -fontSize=default;
+:Do you really want to know? -fontSize=default;
+choose:Yes，show me!:Jumpscare.txt|No thanks.:End.txt|Sorry but yes, I want to see it.:Jumpscare.txt|I'm so sorry, I'm just curious.:End.txt;

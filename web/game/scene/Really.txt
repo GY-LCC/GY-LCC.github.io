@@ -1,0 +1,3 @@
+{name}:Really? -fontSize=default;
+:Yeah! -fontSize=default;
+changeScene:End.txt

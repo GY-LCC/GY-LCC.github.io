@@ -1,0 +1,7 @@
+Game_name:Happy Introspection (Unfinished);
+Game_key:b63d17a9d7a5b18;
+Title_img:标题界面.jpg;
+Title_bgm:月光.mp3;
+Textbox_theme:imss;
+Description:;
+Game_Logo:启动图.jpg;

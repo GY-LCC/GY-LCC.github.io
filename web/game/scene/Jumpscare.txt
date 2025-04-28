@@ -1,0 +1,5 @@
+bgm:none;
+changeFigure: -next;
+setTextbox:hide;
+changeBg:jump scare!.jpg -next -duration=60 -transform={"glitchFilm":1};
+changeScene:End.txt
